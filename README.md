@@ -13,7 +13,7 @@
   </a>
 </div>
 
-![](https://komarev.com/ghpvc/?username=Tejash11&style=flat-square)
+![](https://komarev.com/ghpvc/?username=Tejash11&style=plastic-square)
 <!--
 **Tejash11/Tejash11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
