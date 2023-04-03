@@ -36,4 +36,8 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tejash11" height="30" width="40" style="max-width: 100%;">
 </a>
 </p>
-<h2> Languages & Tools </h2>
+<h2> Languages & Tools: </h2>
+<a href="https://www.cprogramming.com/" rel="nofollow">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" style="max-width: 100%;">
+</a>
+
