@@ -1,5 +1,5 @@
 ### <h1 align="center"> Hi there 👋 I m' Tejash Seth </h1>
-<h2 align="center"> A passionate Software Developer from India </h2>
+<h3 align="center"> A passionate Software Developer from India </h3>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -13,6 +13,7 @@
   </a>
 </div>
 
+![](https://komarev.com/ghpvc/?username=Tejash11&style=flat-square)
 <!--
 **Tejash11/Tejash11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
