@@ -49,3 +49,5 @@
 <a href="https://firebase.google.com/" rel="nofollow">
   <img src="https://img.icons8.com/color/48/000000/firebase.png?f=avif&w=512" alt="c" width="40" height="40" style="max-width: 100%;">
 </a>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tejash11&show_icons=true&theme=radical)
