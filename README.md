@@ -13,9 +13,6 @@
   </a>
 </div>
 
-<div class="hero__illustration svelte-1y7xjkv"><img src="/images/illustration-large.webp" alt="Gitpod in a Nutshell" width="700" height="724" class="block dark:hidden"> <img src="/images/illustrattion-large-dark.webp" alt="Gitpod in a Nutshell" width="700" height="724" class="hidden dark:block">
-</div>
-
 ![](https://komarev.com/ghpvc/?username=Tejash11&style=plastic-square)
 
 <!-- **Tejash11/Tejash11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
