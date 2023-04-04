@@ -51,4 +51,4 @@
 </a>
 
 <h2> GitHub Stats: </h2>
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Tejash11&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tejash11&show_icons=true&theme=radical)
