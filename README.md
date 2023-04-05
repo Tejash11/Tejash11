@@ -55,6 +55,7 @@
   <a href="https://github.com/Tejash11/">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Tejash11&amp;show_icons=true&amp;theme=algolia&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Tejash11&amp;layout=compact&amp;langs_count=8&amp;theme=algolia" style="max-width: 100%;">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Tejash11&amp;theme=tokyonight" style="max-width: 100%;">
   </a>
 </p>
 <!-- <picture>
