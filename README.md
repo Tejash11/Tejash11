@@ -52,10 +52,6 @@
 
 <h2> GitHub Analytics: </h2>
 <!-- <p align="center" dir="auto"> -->
-<div class="d-flex flex-justify-between">
-      <div class="text-mono text-small mb-3">
-        <a href="https://github.com/Tejash11/Tejash11/" class="no-underline Link--primary">Tejash11</a><span class="color-fg-muted d-inline-block" style="padding:0px 2px;">/</span>README<span class="color-fg-muted">.md</span>
-</div>
   
 <div align="center" class="row">
   <a href="https://github.com/Tejash11/">
