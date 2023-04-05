@@ -1,3 +1,25 @@
+<html>
+  <head>
+    <style>
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+</head>
+  
 ### <h1 align="center"> Hi there 👋 I m' Tejash Seth </h1>
 <h3 align="center"> A passionate Software Developer from India </h3>
 <div id="header" align="center">
@@ -52,13 +74,19 @@
 
 <h2> GitHub Analytics: </h2>
 <!-- <p align="center" dir="auto"> -->
-  
 <div align="center" class="row">
+<div align="center" class="column">
   <a href="https://github.com/Tejash11/">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Tejash11&amp;show_icons=true&amp;theme=algolia&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;">
+  </a>
+</div>
+  <div align="center" class="column">
+    <a href="https://github.com/Tejash11/">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Tejash11&amp;layout=compact&amp;langs_count=8&amp;theme=algolia" style="max-width: 100%;">
   </a>
   </div>
+  </div>
+  
   <div align="center" class="row">
   <a href="https://github.com/Tejash11/">
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Tejash11&amp;theme=tokyonight" style="max-width: 100%;">
@@ -76,3 +104,4 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=Tejash11&show_icons=true" />
 </picture> -->
+</html>
