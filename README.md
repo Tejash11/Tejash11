@@ -54,18 +54,10 @@
 <div align="center">
   <a href="https://github.com/Tejash11/">
     <img height="180em" style="float:left;" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Tejash11&amp;show_icons=true&amp;theme=algolia&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;">
+    <br><br>
     <img height="180em" style="float:right;" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Tejash11&amp;layout=compact&amp;langs_count=8&amp;theme=algolia" style="max-width: 100%;">
+    <br><br>
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Tejash11&amp;theme=tokyonight" style="max-width: 100%;">
+    <br><br>
+    </a>
 </div>
-  
-<!-- <picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=Tejash11&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=Tejash11&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=Tejash11&show_icons=true" />
-</picture> -->
