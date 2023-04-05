@@ -51,12 +51,13 @@
 </a>
 
 <h2> GitHub Analytics: </h2>
-<!-- <p align="center" dir="auto">
+<p align="center" dir="auto">
   <a href="https://github.com/Tejash11/">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Tejash11&amp;show_icons=true&amp;theme=algolia&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tushar5526&amp;layout=compact&amp;langs_count=8&amp;theme=algolia" style="max-width: 100%;">
   </a>
-</p> -->
-<picture>
+</p>
+<!-- <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=Tejash11&show_icons=true&theme=dark"
   media="(prefers-color-scheme: dark)"
@@ -66,4 +67,4 @@
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=Tejash11&show_icons=true" />
-</picture>
+</picture> -->
