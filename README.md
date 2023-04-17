@@ -1,4 +1,4 @@
-### <h1 align="center"> Hi there 👋 I m' <a href="https://www.linkedin.com/in/tejashseth11/"> Tejash Seth </a> </h1>
+### <h1 align="center"> Hi there 👋 I m' <a href="https://tejash11.github.io/Portfolio_Website/"> Tejash Seth </a> </h1>
 <h3 align="center"> A passionate Software Developer from India </h3>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
